@@ -1,1 +1,3 @@
-// 10.1.4 create the first test
+const Game = require('./lib/Game');
+
+new Game().initializeGame();
